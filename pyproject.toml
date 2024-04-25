@@ -6,7 +6,6 @@ authors = [
     { name = "gomadoufu", email = "49393637+gomadoufu@users.noreply.github.com" }
 ]
 dependencies = [
-    "pytest>=8.1.1",
     "pre-commit>=3.7.0",
     "ruff>=0.4.1",
 ]
